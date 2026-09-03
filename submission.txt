@@ -1,0 +1,14 @@
+Software Engineer Intern - Technical Assignment Submission
+
+GitHub Repository Link: [INSERT YOUR GITHUB REPO URL HERE]
+Deployed Application URL (Frontend): [INSERT DEPLOYED FRONTEND URL HERE]
+Deployed API URL (Backend): [INSERT DEPLOYED BACKEND URL HERE]
+
+Administrator Login Credentials:
+- Email: admin@trello.com
+- Password: Admin@1234
+
+Candidate Contact Information:
+- Name: [YOUR FULL NAME]
+- Email: [YOUR EMAIL ADDRESS]
+- Phone: [YOUR PHONE NUMBER - OPTIONAL]
