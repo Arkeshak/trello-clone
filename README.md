@@ -58,6 +58,3 @@ The admin account is pre-seeded in the database to prevent unauthorized administ
 - **Email:** admin@trello.com
 - **Password:** Admin@1234
 
-## Application Screenshots
-- **Login/Registration Page**: ![Login Form](frontend/public/screenshots/login.png)
-- **Task Board (Administrator)**: ![Admin Board](frontend/public/screenshots/admin-board.png)
