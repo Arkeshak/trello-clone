@@ -1,8 +1,8 @@
 Software Engineer Intern - Technical Assignment Submission
 
-GitHub Repository Link: [INSERT YOUR GITHUB REPO URL HERE]
-Deployed Application URL (Frontend): [INSERT DEPLOYED FRONTEND URL HERE]
-Deployed API URL (Backend): [INSERT DEPLOYED BACKEND URL HERE]
+GitHub Repository Link: https://github.com/Arkeshak/trello-clone
+Deployed Application URL (Frontend): [WAITING FOR AZURE FRONTEND URL]
+Deployed API URL (Backend): https://trello-clone-backend-awfahyhnbzh6erbt.eastasia-01.azurewebsites.net
 
 Administrator Login Credentials:
 - Email: admin@trello.com
