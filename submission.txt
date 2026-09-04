@@ -9,6 +9,6 @@ Administrator Login Credentials:
 - Password: Admin@1234
 
 Candidate Contact Information:
-- Name: [YOUR FULL NAME]
-- Email: [YOUR EMAIL ADDRESS]
-- Phone: [YOUR PHONE NUMBER - OPTIONAL]
+- Name:Arkeshkar Prashanthkumar
+- Email: arkeshkarprashnthkumar@gmail.com
+- Phone: 0715823833
